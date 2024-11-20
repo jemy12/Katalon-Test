@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Login Failed_Folkacteh</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9d80e4e5-85dc-4937-8b17-9a18552d28b8</testCaseGuid>
+</TestCaseEntity>
